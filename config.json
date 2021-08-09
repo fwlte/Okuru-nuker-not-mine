@@ -1,0 +1,17 @@
+{
+    "General": {
+        "Prefix": "",
+        "Token": "",
+        "Guild To Nuke": 
+    },
+    "Nuke":{
+        "Channel Names": ["", ""],
+        "Role Names": ["", ""]
+    },
+    "Webhook Spam":{
+        "Spam": true,
+        "Webhook Names": ["t", ""],
+        "Message Contents": ["", ""],
+        "Spam Amount": 30
+    }
+}
